@@ -1,0 +1,1 @@
+This project is a simple tool that allows the detection of invalid bytes in files, displaying a graphical interface. The application was developed in Python using the tkinter library for the graphical interface and PyInstaller for creating the executable. I created this script with the aim of facilitating error correction in a system.
